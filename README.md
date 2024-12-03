@@ -1,8 +1,8 @@
 ## Autores
-Iohana Linhas
-Lavínia Vitória
-Leonardo Cech
-Vinicius de Maria
+- Iohana Linhas
+- Lavínia Vitória
+- Leonardo Cech
+- Vinicius de Maria
 
 ## Getting Started
 
